@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWC_to_Jobboss", "PWC_to_Jobboss\PWC_to_Jobboss.csproj", "{2EADDF2C-3ABF-405E-B9B3-B49EF36B482B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EADDF2C-3ABF-405E-B9B3-B49EF36B482B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EADDF2C-3ABF-405E-B9B3-B49EF36B482B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EADDF2C-3ABF-405E-B9B3-B49EF36B482B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EADDF2C-3ABF-405E-B9B3-B49EF36B482B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C0115C-2D23-4E77-9859-E2E6F8E37C86}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://blaispierreluc.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PWC_to_Jobboss\\PWC_to_Jobboss.csproj
+		SccProjectName1 = PWC_to_Jobboss
+		SccLocalPath1 = PWC_to_Jobboss
+	EndGlobalSection
+EndGlobal
